@@ -24,7 +24,7 @@ function handleclick(index){
           src="/back-ground@2x.png"
         />
         <div className='flex flex-row justify-between'>
-        <div className="absolute top-[60px] left-[100px] flex flex-col gap-[40px] 
+        <div className="absolute  top-[60px] left-[10px] flex flex-col gap-[30px] 
         text-left text-13xl text-white">
           <div className="self-stretch flex flex-row items-center justify-start">
               <div className="text-5xl p-6 flex-1 relative tracking-[-0.01em] leading-[125%] font-semibold">
@@ -55,7 +55,7 @@ function handleclick(index){
               <p className='text-2xl font-semibold font-sans'><span className='text-blue-600'>Ad Free</span> learning experience</p>
             </div>
         </div>
-        <div className="absolute top-[100px] left-[850px] rounded-lg bg-white w-[520px]  flex flex-col py-8 px-4 
+        <div className="absolute top-[100px] left-[700px] rounded-lg bg-white w-[550px]  flex flex-col py-8 px-4 
         box-border " >
             <div className=" w-full flex flex-row justify-around">
             <div className='flex flex-col'>
